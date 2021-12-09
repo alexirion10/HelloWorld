@@ -1,9 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "KV/CP0IhPk4URInGMNFNR/G8igXRub0Kr867yZBf96AUQANEODNAd21BajZHGiDo+ehsPIt2BcHN1VF8EtYtpw==",
+  "dgSpecHash": "mPldX9leyiOu/+P8XVrxvgSWX9/DGUIf27Q4j0oF179jNF+xeQ9zvyD0pHtT6xjqjS6cKUn2k2iNnkBcH7uozA==",
   "success": true,
   "projectFilePath": "C:\\Users\\airion\\git-workspace\\dotnet\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\airion\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.11\\microsoft.extensions.configuration.3.1.11.nupkg.sha512",
+    "C:\\Users\\airion\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.11\\microsoft.extensions.configuration.abstractions.3.1.11.nupkg.sha512",
+    "C:\\Users\\airion\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.11\\microsoft.extensions.configuration.binder.3.1.11.nupkg.sha512",
+    "C:\\Users\\airion\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.11\\microsoft.extensions.dependencyinjection.3.1.11.nupkg.sha512",
+    "C:\\Users\\airion\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.11\\microsoft.extensions.dependencyinjection.abstractions.3.1.11.nupkg.sha512",
+    "C:\\Users\\airion\\.nuget\\packages\\microsoft.extensions.logging\\3.1.11\\microsoft.extensions.logging.3.1.11.nupkg.sha512",
+    "C:\\Users\\airion\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.11\\microsoft.extensions.logging.abstractions.3.1.11.nupkg.sha512",
+    "C:\\Users\\airion\\.nuget\\packages\\microsoft.extensions.options\\3.1.11\\microsoft.extensions.options.3.1.11.nupkg.sha512",
+    "C:\\Users\\airion\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.11\\microsoft.extensions.primitives.3.1.11.nupkg.sha512",
+    "C:\\Users\\airion\\.nuget\\packages\\polly\\7.2.0\\polly.7.2.0.nupkg.sha512",
     "C:\\Users\\airion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],
   "logs": []
