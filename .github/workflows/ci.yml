@@ -16,7 +16,7 @@ env:
 
 jobs:
 #   check_formatting:
-#     runs-on: [linux]
+#     runs-on: ubuntu-latest
 #     steps:
 #     - uses: actions/checkout@v2
 #     - name: Setup dotnet
@@ -29,7 +29,7 @@ jobs:
 #       run: dotnet tool run dotnet-format --check
 
   build_and_test:
-    runs-on: [linux]
+    runs-on: ubuntu-latest
     name: build_and_test
     steps:
     - uses: actions/checkout@v2
