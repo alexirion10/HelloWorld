@@ -7,3 +7,14 @@ updates:
       interval: monthly
     target-branch: main
     open-pull-requests-limit: 10
+  - package-ecosystem: "nuget"
+    directory: "/HelloWorld"
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 3
+  - package-ecosystem: "nuget"
+    directory: "/HelloWorld.xTest"
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 3
+    
